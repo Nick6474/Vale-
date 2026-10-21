@@ -25,7 +25,7 @@ body::before {
     left: 0;
     width: 100vw;
     height: 100vh;
-    background-image: url('assets/fondo.png');
+    background-image: url('assets/fondo.jpeg');
     background-size: 250px;
     background-repeat: repeat;
     opacity: 0.12;
